@@ -1,0 +1,174 @@
+{
+ "chuDe": [
+  {
+   "id": "phong-thuy-tai-loc",
+   "ten": "Phong thủy – Tài lộc",
+   "moTa": "Vui tươi, may mắn",
+   "baiNhac": [
+    {
+     "ten": "Celestial Dance 1",
+     "file": "phong-thuy-tai-loc/celestial-dance-1.mp3"
+    },
+    {
+     "ten": "Celestial Dance 2",
+     "file": "phong-thuy-tai-loc/celestial-dance-2.mp3"
+    },
+    {
+     "ten": "Celestial Dance 3",
+     "file": "phong-thuy-tai-loc/celestial-dance-3.mp3"
+    },
+    {
+     "ten": "Celestial Dance 4",
+     "file": "phong-thuy-tai-loc/celestial-dance-4.mp3"
+    },
+    {
+     "ten": "Golden Breeze 1",
+     "file": "phong-thuy-tai-loc/golden-breeze-1.mp3"
+    },
+    {
+     "ten": "Golden Breeze 2",
+     "file": "phong-thuy-tai-loc/golden-breeze-2.mp3"
+    },
+    {
+     "ten": "Golden Fortune Dance 1",
+     "file": "phong-thuy-tai-loc/golden-fortune-dance-1.mp3"
+    },
+    {
+     "ten": "Golden Fortune Dance 2",
+     "file": "phong-thuy-tai-loc/golden-fortune-dance-2.mp3"
+    },
+    {
+     "ten": "Golden Fortune Parade 1",
+     "file": "phong-thuy-tai-loc/golden-fortune-parade-1.mp3"
+    },
+    {
+     "ten": "Golden Fortune Parade 2",
+     "file": "phong-thuy-tai-loc/golden-fortune-parade-2.mp3"
+    },
+    {
+     "ten": "Golden Harmony 1",
+     "file": "phong-thuy-tai-loc/golden-harmony-1.mp3"
+    },
+    {
+     "ten": "Golden Harmony 2",
+     "file": "phong-thuy-tai-loc/golden-harmony-2.mp3"
+    },
+    {
+     "ten": "Golden Pathways 1",
+     "file": "phong-thuy-tai-loc/golden-pathways-1.mp3"
+    },
+    {
+     "ten": "Golden Pathways 2",
+     "file": "phong-thuy-tai-loc/golden-pathways-2.mp3"
+    },
+    {
+     "ten": "Golden Prosperity 1",
+     "file": "phong-thuy-tai-loc/golden-prosperity-1.mp3"
+    },
+    {
+     "ten": "Golden Prosperity 2",
+     "file": "phong-thuy-tai-loc/golden-prosperity-2.mp3"
+    },
+    {
+     "ten": "Golden Serenity 1",
+     "file": "phong-thuy-tai-loc/golden-serenity-1.mp3"
+    },
+    {
+     "ten": "Golden Serenity 2",
+     "file": "phong-thuy-tai-loc/golden-serenity-2.mp3"
+    },
+    {
+     "ten": "Golden Stream 1",
+     "file": "phong-thuy-tai-loc/golden-stream-1.mp3"
+    },
+    {
+     "ten": "Golden Stream 2",
+     "file": "phong-thuy-tai-loc/golden-stream-2.mp3"
+    },
+    {
+     "ten": "Golden Streams 1",
+     "file": "phong-thuy-tai-loc/golden-streams-1.mp3"
+    },
+    {
+     "ten": "Golden Streams 2",
+     "file": "phong-thuy-tai-loc/golden-streams-2.mp3"
+    },
+    {
+     "ten": "Lucky Horizons 1",
+     "file": "phong-thuy-tai-loc/lucky-horizons-1.mp3"
+    },
+    {
+     "ten": "Lucky Horizons 2",
+     "file": "phong-thuy-tai-loc/lucky-horizons-2.mp3"
+    },
+    {
+     "ten": "Lucky Stars Align 1",
+     "file": "phong-thuy-tai-loc/lucky-stars-align-1.mp3"
+    },
+    {
+     "ten": "Lucky Stars Align 2",
+     "file": "phong-thuy-tai-loc/lucky-stars-align-2.mp3"
+    },
+    {
+     "ten": "Prosperity Dance 1",
+     "file": "phong-thuy-tai-loc/prosperity-dance-1.mp3"
+    },
+    {
+     "ten": "Prosperity Dance 2",
+     "file": "phong-thuy-tai-loc/prosperity-dance-2.mp3"
+    },
+    {
+     "ten": "Whispers of Prosperity 1",
+     "file": "phong-thuy-tai-loc/whispers-of-prosperity-1.mp3"
+    },
+    {
+     "ten": "Whispers of Prosperity 2",
+     "file": "phong-thuy-tai-loc/whispers-of-prosperity-2.mp3"
+    },
+    {
+     "ten": "Zodiac Breeze 1",
+     "file": "phong-thuy-tai-loc/zodiac-breeze-1.mp3"
+    },
+    {
+     "ten": "Zodiac Breeze 2",
+     "file": "phong-thuy-tai-loc/zodiac-breeze-2.mp3"
+    }
+   ]
+  },
+  {
+   "id": "phat-phap-thien",
+   "ten": "Phật pháp – Thiền",
+   "moTa": "Tĩnh tâm, thư thái",
+   "baiNhac": [
+    {
+     "ten": "Feng Shui Flow",
+     "file": "phat-phap-thien/feng-shui-flow.mp3"
+    },
+    {
+     "ten": "Incense Drift",
+     "file": "phat-phap-thien/incense-drift.mp3"
+    },
+    {
+     "ten": "Sacred Pulse",
+     "file": "phat-phap-thien/sacred-pulse.mp3"
+    },
+    {
+     "ten": "Á Đông",
+     "file": "phat-phap-thien/a-dong.mp3"
+    },
+    {
+     "ten": "Dân tộc tĩnh tâm",
+     "file": "phat-phap-thien/dan-toc-tinh-tam.mp3"
+    },
+    {
+     "ten": "Phong thủy năng lượng số",
+     "file": "phat-phap-thien/phong-thuy-nang-luong-so.mp3"
+    },
+    {
+     "ten": "Thiền định phương Đông",
+     "file": "phat-phap-thien/thien-dinh-phuong-dong.mp3"
+    }
+   ]
+  }
+ ]
+}
