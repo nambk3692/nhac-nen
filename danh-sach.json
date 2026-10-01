@@ -169,6 +169,17 @@
      "file": "phat-phap-thien/thien-dinh-phuong-dong.mp3"
     }
    ]
+  },
+  {
+   "id": "nhac-nen-chung",
+   "ten": "Nhạc nền chung",
+   "moTa": "Dùng cho mọi loại video",
+   "baiNhac": [
+    {
+     "ten": "Nhạc nền chung",
+     "file": "nhac-nen-chung/nhac-nen-chung.mp3"
+    }
+   ]
   }
  ]
 }
